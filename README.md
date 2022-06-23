@@ -6,4 +6,4 @@
 
 ### Релиз
 
-<a href="=https://github.com/Department-of-Media-Technology-DSTU/Cyberbullet/releases">Нажмите, чтобы открыть страницу релиза
+<a href="https://github.com/Department-of-Media-Technology-DSTU/Cyberbullet/releases">Нажмите, чтобы открыть страницу релиза
